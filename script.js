@@ -48,7 +48,7 @@ const memories = [
     options: ["A. 6th Floor", "B. LS", "C. Ground Floor Restroom", "D. Scrum Area", "E. All of these 😌"], answer: 4,
     wrong: "Inga mattuma namma meet pannirukkom? 😂",
     correct: "YESSS! Correct! 😂❤️",
-    photo: "photos/day2.png",
+    photo: "day2.png",
     story: `<p>Actually, namma enga meet pannuradhu-nu oru mukkiyamaana vishayam decide pannum... <strong>Adhu un makeup-a poruthadhu dhaan.</strong> 😂💄</p>
     <p>💄 <strong>Nee makeup pottutu vandirukka + serious matter illa:</strong><br>→ Cafeteria ☕</p>
     <p>💄 <strong>Nee makeup pottutu vandirukka + edho oru problem:</strong><br>→ Scrum area 💀</p>
@@ -75,7 +75,7 @@ const memories = [
     options: ["A. Forum Mall", "B. VR Mall", "C. Writer's Cafe, Tharamani"], answer: 1,
     wrong: "Konjam innum yosichu paaru. 👀",
     correct: "Correct! VR Mall dhaan! ❤️",
-    photo: "photos/day3.png",
+    photo: "day3.png",
     story: `<p>Kamesh birthday-ku munnaadi office-la cake cut pannitu, adhukkapparam dhaan namma moonu perum first time veliya pona outing! ❤️</p>
     <p>Namma VR Mall poitu, anga irundha Writer's Cafe-la poi saaptom. 😂</p>
     <p>Saaptuttu, nalla suthittu, paathuttu, enjoy pannittu veetukku poom.</p>
@@ -116,7 +116,7 @@ const memories = [
     acceptedAnswers: ["1980's", "1980s", "1980’s", "1980"],
     wrong: "Aiyo 😂 konjam yosichu paaru...",
     correct: "Correct! 1980's dhaan! ❤️",
-    photo: "photos/day4.png",
+    photo: "day4.png",
     story: `<p>Wayanad trip-la, <strong>resort-larundhu kelamburadhukku munnadiye oru photo shoot vera!</strong> 📸😂<br><strong>“Naan unga Sukumaran...”</strong> 😭😂<br>I still have that reel! 💀</p>
     <p>Adhukkulla <strong>leech vera!</strong> 🪱😭</p>
     <p>Adhukkappuram <strong>jeep safari ponom.</strong> 🚙🌿<br><strong>Andha jeep trip-a marakkave mudiyadhu. Semmayaana trip!</strong> 😂❤️</p>
@@ -148,7 +148,7 @@ const memories = [
     acceptedAnswers: ["17/04/2025", "17-04-2025", "17.04.2025", "17 04 2025", "2025-04-17"],
     wrong: "Aiyo... konjam innum yosichu paaru. 🥹",
     correct: "Correct... 17/04/2025. ❤️",
-    photo: "photos/day5.png",
+    photo: "day5.png",
     story: `<p>Andha naal dhaan namma Amazon-la onna irundha last day.</p>
     <p>Neriya emotions.<br>Neriya laughs.<br>Neriya photos. ❤️</p>
     <p>Andha photos-la idhuvum enakku romba memorable.<br><strong>In fact, naan idha daily basis-la paakra oru photo.</strong> 🥹</p>
