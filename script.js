@@ -13,7 +13,7 @@ const memories = [
     options: ["🪔 Diwali", "🌼 Onam", "🌾 Pongal"], answer: 0,
     wrong: "Konjam innum yosichu paaru. 👀",
     correct: "Correct! Diwali dhaan! ❤️",
-    photo: "photos/day1.png",
+    photo: "day1.png",
     story: `Namma office-ku vandha apram idhu dhaan namma first traditional day.<br><br>
     Nee, naan traditional-ah vandhom, and Kamesh romba traditional-ah varalana kooda, oru alavukku namma match pannitaan. 😂<br><br>
     Namma moonu perum veliya suthittu, jolly-ah, andha stairs pakkathula, elevator-la irukkura sofa set-la ukkandhu photos eduthu, neraya pesittu irundhom.<br><br>
